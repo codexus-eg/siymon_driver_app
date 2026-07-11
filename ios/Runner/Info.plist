@@ -81,5 +81,12 @@
         </array>
         <key>UIStatusBarHidden</key>
         <false/>
+
+      <key>NSCameraUsageDescription</key>
+      <string>يحتاج تطبيق siymon driver للوصول إلى الكاميرا لالتقاط صور لتسليم الطلبات أو تحديث الصورة الشخصية للسائق.</string>
+      <key>NSPhotoLibraryUsageDescription</key>
+      <string>يحتاج تطبيق siymon driver للوصول إلى مكتبة الصور لاختيار صورة شخصية للسائق أو إرفاق صور للطلبات.</string>
+      <key>NSMicrophoneUsageDescription</key>
+      <string>يحتاج تطبيق siymon driver للوصول إلى الميكروفون في حال تسجيل مقاطع فيديو للمحادثات أو الدعم الفني.</string>
     </dict>
 </plist>
